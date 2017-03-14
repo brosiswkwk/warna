@@ -517,6 +517,7 @@ body {
 	width: 110px;
 	padding: 10px;
 	float: right;
+	margin-top:-6%;
 }
 
 #controls #picker-switch {
